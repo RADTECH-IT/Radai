@@ -34,10 +34,7 @@ const LandingPage = ({ onGetStarted, theme, toggleTheme }) => {
       {/* Hero */}
       <main className="relative z-10 flex-1 flex flex-col items-center justify-center px-6 md:px-12 pb-16">
         <div className="text-center mb-16 animate-slide-up max-w-3xl">
-          <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-primary/10 border border-primary/20 mb-8">
-            <div className="w-2 h-2 rounded-full bg-accent-green animate-pulse" />
-            <span className="text-xs font-medium text-primary">Profesional & Terpercaya</span>
-          </div>
+
           
           <h1 className="text-5xl md:text-7xl font-extrabold tracking-tight mb-6 leading-[1.1]">
             Asisten Belajar
